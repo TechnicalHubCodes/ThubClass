@@ -8,5 +8,6 @@ void main()
     printf("Im at Thub class");
     printf("Im at Thub");
     printf("sandeep");
+    printf("hello bikesh");
     getch();
 }
